@@ -5,7 +5,7 @@ author: cloverapp1
 url: https://github.com/cloverapp1
 resume_site: https://github.com/cloverapp1
 github: https://github.com/cloverapp1
-baseurl: "/LessOrMore"
+baseurl: ""
 description: Actually, less is more!
 meta_description: cloverapp1
 motto: It's our wits that make us men.
@@ -22,5 +22,5 @@ github_username: cloverapp1
 # Build settings
 markdown: kramdown
 
-baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+# baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
