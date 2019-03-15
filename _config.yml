@@ -1,13 +1,13 @@
 # Site settings
 name: Less Or More
 email: yanglihaut2013@126.com
-author: Clover
+author: cloverapp1
 url: https://github.com/cloverapp1
 resume_site: https://github.com/cloverapp1
 github: https://github.com/cloverapp1
 baseurl: "/LessOrMore"
 description: Actually, less is more!
-meta_description: Clover
+meta_description: cloverapp1
 motto: It's our wits that make us men.
 banner: 学而不思则罔，思而不学则殆。
 
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: Clover
+github_username: cloverapp1
 
 # Build settings
 markdown: kramdown
