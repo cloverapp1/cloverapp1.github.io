@@ -8,17 +8,17 @@ permalink: /reference/
 {:toc}
 
 
-走向架构师之路
+架构师思维
 =====================
-[走向架构师之路](http://blog.csdn.net/cutesource/article/details/4901506)
+[架构师思维](https://limboy.me/tech/2019/02/16/architect-mindset.html)
 
 HTTP协议详解
 =====================
 [HTTP协议详解](http://www.jmarshall.com/easy/http/)
 
-Axis 2.0的入门
+iOS应用架构谈 组件化方案
 =====================
-[曹胜欢][http://blog.csdn.net/csh624366188/article/details/8362696](http://blog.csdn.net/csh624366188/article/details/8362696)
+[Casa Taloyum][https://casatwy.com/iOS-Modulization.html](https://casatwy.com/iOS-Modulization.html)
 
 [一线码农]
 =====================
