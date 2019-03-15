@@ -22,6 +22,4 @@ permalink: /books/
 + 《HTTP协议详解》
 + 《TCP/IP协议详解-卷一》
 + 《阿弥陀佛么么哒》
-免费的计算机编程类中文书籍
-=====================
-[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
++ [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)
